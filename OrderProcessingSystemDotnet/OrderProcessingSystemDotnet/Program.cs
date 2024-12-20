@@ -32,8 +32,8 @@ builder.Services.AddSwaggerGen(c =>
         Description = "An API to perform task management operations",
         Contact = new OpenApiContact
         {
-            Name = "Muhammad Zafir Alvi",
-            Email = "muhammad.zafir.alvi.official@gmail.com"
+            Name = "Yan Savinov",
+            Email = "savinovyan@gmail.com"
         }
     });
 });
